@@ -1,0 +1,8 @@
+Copiar repetidamente um arquivo ou diretorio de um local fixo para destinos equivalentes na arvore de diretorios do windows em diversas maquinas de maneira recorrente.
+Passo a passo:
+Ler um diretorio de origem (payload)
+Ler um diretorio de origem (target)
+Buscar em um arquivo secundario a lista de hostnames que ira repetidamente ser atribuida a "payload".
+
+Passo2 implementar um registro de log.
+
